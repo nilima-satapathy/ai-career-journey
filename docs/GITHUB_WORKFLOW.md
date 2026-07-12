@@ -2,13 +2,16 @@
 
 Use this every time you finish a milestone. Takes ~5 minutes. Keeps profile clean and honest.
 
+**GitHub username:** `nilima-satapathy`  
+Profile: https://github.com/nilima-satapathy
+
 ---
 
 ## One-time setup (already done if repos exist)
 
 | Repo | Purpose | Public? |
 |------|---------|---------|
-| `satnil2608-glitch` | Profile README (shows on your GitHub home) | Yes |
+| `nilima-satapathy` | Profile README (shows on your GitHub home) | Yes |
 | `ai-career-journey` | Dashboard + PROGRESS.md | Yes |
 | `api-automation-pytest` | Project 1 code | Yes |
 | later: P2, P3, P4 | One repo per project | Yes |
@@ -48,6 +51,9 @@ git tag -a milestone-X -m "Project 1 Milestone X complete"
 git push origin main
 git push origin milestone-X
 ```
+
+> **Note (M7+):** pushing `.github/workflows/*` needs the GitHub CLI `workflow` OAuth scope  
+> (`gh auth refresh -h github.com -s workflow` and finish browser approval).
 
 ### 4) Update the journey dashboard
 
@@ -108,8 +114,8 @@ Examples:
 
 ## Profile checklist (do once this week)
 
-- [ ] Profile name / bio updated  
-- [ ] Profile README visible (repo `satnil2608-glitch`)  
+- [x] Profile name / bio updated  
+- [x] Profile README visible (repo `nilima-satapathy`)  
 - [ ] Pins set (journey + project 1)  
-- [ ] LinkedIn GitHub link points here  
-- [ ] Resume GitHub URL = `https://github.com/satnil2608-glitch`
+- [ ] LinkedIn GitHub link = `https://github.com/nilima-satapathy`  
+- [ ] Resume GitHub URL = `https://github.com/nilima-satapathy`

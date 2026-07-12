@@ -3,10 +3,12 @@
 > **QA (Microsoft · Google Nest) → AI Test Engineer / GenAI Quality**  
 > Build-first path · Grok as pair programmer · No tutorial hell
 
-[![GitHub](https://img.shields.io/badge/GitHub-satnil2608--glitch-181717?logo=github)](https://github.com/satnil2608-glitch)
+[![GitHub](https://img.shields.io/badge/GitHub-nilima--satapathy-181717?logo=github)](https://github.com/nilima-satapathy)
 [![Focus](https://img.shields.io/badge/Focus-AI%20Test%20%7C%20SDET%20%7C%20GenAI-1F4E79)](./PROGRESS.md)
 
 This repo is my **single dashboard**: overall progress, project links, and how I log each milestone on GitHub.
+
+**Profile:** [github.com/nilima-satapathy](https://github.com/nilima-satapathy)
 
 ---
 
@@ -14,7 +16,7 @@ This repo is my **single dashboard**: overall progress, project links, and how I
 
 | Track | Current | Status |
 |-------|---------|--------|
-| **Project 1** — API automation | Milestone 2 / 8 | 🟢 In progress |
+| **Project 1** — API automation | Milestone 7 / 8 (M7 push may need `workflow` scope) | 🟢 In progress |
 | **Project 2** — Playwright POM | Not started | ⚪ |
 | **Project 3** — RAG doc Q&A | Not started | ⚪ |
 | **Project 4** — LLM eval dashboard | Not started | ⚪ |
@@ -28,7 +30,7 @@ This repo is my **single dashboard**: overall progress, project links, and how I
 
 | # | Repo | What it proves | Link |
 |---|------|----------------|------|
-| 1 | `api-automation-pytest` | Python · Pytest · API testing · fixtures | [Open](https://github.com/satnil2608-glitch/api-automation-pytest) |
+| 1 | `api-automation-pytest` | Python · Pytest · API · schema · CI | [Open](https://github.com/nilima-satapathy/api-automation-pytest) |
 | 2 | `playwright-pom-saucedemo` | UI automation · POM · CI | *coming soon* |
 | 3 | `rag-doc-qa` | RAG · embeddings · deploy | *coming soon* |
 | 4 | `llm-eval-dashboard` | LLM evaluation · golden set · quality gates | *coming soon* |
@@ -39,7 +41,7 @@ This repo is my **single dashboard**: overall progress, project links, and how I
 
 ```text
 Week 1     Foundations + first LLM call
-Week 2     ★ Project 1 (API) — you are here (M1–M2 done)
+Week 2     ★ Project 1 (API) — M1–M7 (CI + reports)
 Week 3     Project 2 (Playwright)
 Week 4     Resume + LinkedIn polish
 Week 5–6   Project 3 (RAG) + start bridge job apps
@@ -71,12 +73,13 @@ See [`docs/GITHUB_WORKFLOW.md`](./docs/GITHUB_WORKFLOW.md) for copy-paste comman
 - Moving into **AI Test / GenAI quality** (automation + LLM evaluation)  
 - Learning by **shipping projects**, not binge-watching courses  
 
-📧 satapathynilima1@gmail.com · 📍 Bangalore
+📧 satapathynilima1@gmail.com · 📍 Bangalore  
+🔗 [linkedin.com/in/nilima-satapathy](https://linkedin.com/in/nilima-satapathy)
 
 ---
 
 ## Profile tips (for me)
 
 - Pin: `ai-career-journey`, `api-automation-pytest`, (+ later P2–P4)  
-- Profile README: repo named exactly `satnil2608-glitch`  
+- Profile README: repo named exactly `nilima-satapathy`  
 - Keep this dashboard README honest — dates and checkboxes only when true  
