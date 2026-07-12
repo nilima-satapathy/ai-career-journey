@@ -11,7 +11,7 @@ Check boxes only when something is **shipped + pushed** to GitHub.
 - [x] **M3** Full GET + parametrize (33 tests) — 2026-07-12  
 - [x] **M4** POST / PUT / DELETE + payloads (45 tests total) — 2026-07-12  
 - [x] **M5** Schema validation (57 tests total) — 2026-07-12  
-- [ ] **M6** Negative tests  
+- [x] **M6** Negative tests (77 tests total) — 2026-07-12  
 - [ ] **M7** pytest-html + GitHub Actions  
 - [ ] **M8** README polish  
 
@@ -65,4 +65,5 @@ Repo: https://github.com/nilima-satapathy/api-automation-pytest
 - Shipped Project 1 M3 — full GET + parametrize (33 green tests)  
 - Shipped Project 1 M4 — POST/PUT/PATCH/DELETE + JSON payloads (45 green tests)  
 - Shipped Project 1 M5 — schema validation (57 green tests)  
-- Next: Project 1 M6 (negative tests)
+- Shipped Project 1 M6 — negative + edge cases (77 green tests)  
+- Next: Project 1 M7 (pytest-html + GitHub Actions CI)
