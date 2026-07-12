@@ -8,7 +8,7 @@ Check boxes only when something is **shipped + pushed** to GitHub.
 
 - [x] **M1** Structure + ApiClient + 3 GET tests — 2026-07-12  
 - [x] **M2** Fixtures (base_url, headers, api_client) — 2026-07-12  
-- [ ] **M3** Full GET + parametrize  
+- [x] **M3** Full GET + parametrize (33 tests) — 2026-07-12  
 - [ ] **M4** POST / PUT / DELETE  
 - [ ] **M5** Schema validation  
 - [ ] **M6** Negative tests  
@@ -62,4 +62,5 @@ Repo: https://github.com/satnil2608-glitch/api-automation-pytest
 ### Week of 2026-07-12
 - Shipped Project 1 M1 + M2  
 - Set up GitHub organization: journey repo + profile README + milestone workflow  
-- Next: Project 1 M3 (parametrize GET tests)
+- Shipped Project 1 M3 — full GET coverage + parametrize (33 green tests)  
+- Next: Project 1 M4 (POST / PUT / DELETE + payloads)
