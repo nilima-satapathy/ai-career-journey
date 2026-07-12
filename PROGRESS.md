@@ -13,7 +13,8 @@ Check boxes only when something is **shipped + pushed** to GitHub.
 - [x] **M5** Schema validation (57 tests total) — 2026-07-12  
 - [x] **M6** Negative tests (77 tests total) — 2026-07-12  
 - [x] **M7** pytest-html + GitHub Actions CI — 2026-07-12  
-- [ ] **M8** README polish  
+- [x] **M8** README polish + portfolio assets — 2026-07-12  
+- [x] **Project 1 complete** (M1–M8, 77 tests + CI)
 
 Repo: https://github.com/nilima-satapathy/api-automation-pytest
 
@@ -67,4 +68,5 @@ Repo: https://github.com/nilima-satapathy/api-automation-pytest
 - Shipped Project 1 M5 — schema validation (57 green tests)  
 - Shipped Project 1 M6 — negative + edge cases (77 green tests)  
 - Shipped Project 1 M7 — pytest-html report + GitHub Actions CI  
-- Next: Project 1 M8 (README polish + portfolio screenshots)
+- Shipped Project 1 M8 — recruiter README + portfolio diagrams  
+- **Project 1 complete** — next: Project 2 (Playwright POM)
