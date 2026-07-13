@@ -17,7 +17,7 @@ This repo is my **single dashboard**: overall progress, project links, and how I
 | Track | Current | Status |
 |-------|---------|--------|
 | **Project 1** — API automation | **Complete** (M1–M8 · 77 tests · CI) | ✅ Done |
-| **Project 2** — Playwright POM | **M1 done** (login test green) | 🟡 |
+| **Project 2** — Playwright POM | **M1–M2 done** (POM + login) | 🟡 |
 | **Project 3** — RAG doc Q&A | Not started | ⚪ |
 | **Project 4** — LLM eval dashboard | Not started | ⚪ |
 | Job applications | Tracker ready | ⚪ Starts ~Week 5 |
@@ -42,7 +42,7 @@ This repo is my **single dashboard**: overall progress, project links, and how I
 ```text
 Week 1     Foundations + first LLM call
 Week 2     ★ Project 1 (API) — COMPLETE (M1–M8)
-Week 3     ★ Project 2 (Playwright) — M1 done
+Week 3     ★ Project 2 (Playwright) — M1–M2 done
 Week 4     Resume + LinkedIn polish
 Week 5–6   Project 3 (RAG) + start bridge job apps
 Week 7–8   Project 4 (LLM eval) + AI job apps
