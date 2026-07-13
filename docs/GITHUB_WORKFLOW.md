@@ -14,12 +14,14 @@ Profile: https://github.com/nilima-satapathy
 | `nilima-satapathy` | Profile README (shows on your GitHub home) | Yes |
 | `ai-career-journey` | Dashboard + PROGRESS.md | Yes |
 | `api-automation-pytest` | Project 1 code | Yes |
-| later: P2, P3, P4 | One repo per project | Yes |
+| `playwright-pom-saucedemo` | Project 2 code | Yes |
+| later: P3, P4 | One repo per project | Yes |
 
 **Pin on profile** (GitHub → profile → Customize pins):  
 1. `ai-career-journey`  
 2. `api-automation-pytest`  
-3. (add others as you create them)
+3. `playwright-pom-saucedemo`  
+4. (add P3–P4 as you create them)
 
 ---
 
@@ -30,7 +32,11 @@ Replace `X` with the number (3, 4, …) and the message.
 ### 1) In the project folder
 
 ```powershell
+# Project 1
 cd C:\Users\admin\OneDrive\Desktop\Code\api-automation-pytest
+# Project 2
+# cd C:\Users\admin\OneDrive\Desktop\Code\playwright-pom-saucedemo
+
 .\.venv\Scripts\Activate.ps1
 pytest
 ```
@@ -47,12 +53,12 @@ Edit `MILESTONES.md` → mark Done + today’s date.
 git add -A
 git status
 git commit -m "feat(mX): short description of what you shipped"
-git tag -a milestone-X -m "Project 1 Milestone X complete"
+git tag -a milestone-X -m "Project 2 Milestone X complete"
 git push origin main
 git push origin milestone-X
 ```
 
-> **Note (M7+):** pushing `.github/workflows/*` needs the GitHub CLI `workflow` OAuth scope  
+> **Note:** pushing `.github/workflows/*` needs the GitHub CLI `workflow` OAuth scope  
 > (`gh auth refresh -h github.com -s workflow` and finish browser approval).
 
 ### 4) Update the journey dashboard
@@ -67,14 +73,14 @@ cd C:\Users\admin\OneDrive\Desktop\Code\ai-career-journey
 
 ```powershell
 git add -A
-git commit -m "docs: log Project 1 milestone X"
+git commit -m "docs: log Project 2 milestone X"
 git push origin main
 ```
 
 ### 5) Optional — GitHub Release (looks great on profile activity)
 
 ```powershell
-cd C:\Users\admin\OneDrive\Desktop\Code\api-automation-pytest
+cd C:\Users\admin\OneDrive\Desktop\Code\playwright-pom-saucedemo
 gh release create milestone-X --title "Milestone X — short title" --notes "What shipped: ..."
 ```
 

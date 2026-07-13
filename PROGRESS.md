@@ -22,10 +22,14 @@ Repo: https://github.com/nilima-satapathy/api-automation-pytest
 
 ## Project 2 — Playwright UI (`playwright-pom-saucedemo`)
 
-- [ ] Scaffold + first login test  
-- [ ] Page Object Model  
-- [ ] 3 journeys + negative login  
-- [ ] CI headless  
+- [x] **M1** Scaffold + first login test (Playwright + Pytest, no POM) — 2026-07-13  
+- [ ] **M2** Page Object Model  
+- [ ] **M3** Cart + checkout journeys  
+- [ ] **M4** Negative cases + traces on fail  
+- [ ] **M5** CI headless  
+- [ ] **M6** README polish  
+
+Repo: https://github.com/nilima-satapathy/playwright-pom-saucedemo
 
 ---
 
@@ -52,6 +56,7 @@ Repo: https://github.com/nilima-satapathy/api-automation-pytest
 - [x] Career plan folder created locally (`AI-Career-Plan`)  
 - [x] Resume v1 drafted (local)  
 - [x] GitHub journey + Project 1 published  
+- [x] Project 2 repo published (`playwright-pom-saucedemo`) + M1 tagged  
 - [ ] LinkedIn headline + About updated  
 - [ ] Resume PDF exported with GitHub links  
 - [ ] First 10 job applications logged  
@@ -70,3 +75,4 @@ Repo: https://github.com/nilima-satapathy/api-automation-pytest
 - Shipped Project 1 M7 — pytest-html report + GitHub Actions CI  
 - Shipped Project 1 M8 — recruiter README + portfolio diagrams  
 - **Project 1 complete** — next: Project 2 (Playwright POM)
+- Shipped **Project 2 M1** — first SauceDemo login test green (1 passed); repo + tag `milestone-1` on GitHub
