@@ -38,7 +38,7 @@ Repo: https://github.com/nilima-satapathy/playwright-pom-saucedemo
 
 - [x] **M1** PDF load + chunking (configurable size, 3 sample PDFs) — 2026-07-13  
 - [x] **M2** Embed + Chroma store + similarity search CLI — 2026-07-13  
-- [ ] **M3** LLM answer + citations  
+- [x] **M3** LLM answer + citations (xAI/Grok; weak-retrieval fallback) — 2026-07-13  
 - [ ] **M4** Streamlit chat UI  
 - [ ] **M5** Eval on ≥10 questions  
 - [ ] **M6** Deploy + README polish  
@@ -90,4 +90,5 @@ Repo: https://github.com/nilima-satapathy/rag-doc-qa
 - Shipped **Project 2 M6** — recruiter README + portfolio diagrams; tag `milestone-6`  
 - **Project 2 complete** — next: Week 4 polish / Project 3 (RAG)  
 - Started **Project 3 M1** — PDF load + chunking (3 PDFs → configurable chunks)  
-- Shipped **Project 3 M2** — Chroma index + similarity search CLI; tag `milestone-2`
+- Shipped **Project 3 M2** — Chroma index + similarity search CLI; tag `milestone-2`  
+- Shipped **Project 3 M3** — RAG generate + citations (needs xAI credits for live LLM); tag `milestone-3`
