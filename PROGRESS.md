@@ -63,6 +63,7 @@ Repo: https://github.com/nilima-satapathy/rag-doc-qa
 - [x] GitHub journey + Project 1 published  
 - [x] Project 2 repo published (`playwright-pom-saucedemo`) + M1 tagged  
 - [x] Project 2 complete (M1–M6 published on GitHub)  
+- [x] Project 3 repo published (`rag-doc-qa`) + M1 tagged  
 - [ ] LinkedIn headline + About updated  
 - [ ] Resume PDF exported with GitHub links  
 - [ ] First 10 job applications logged  

@@ -44,7 +44,7 @@ Week 1     Foundations + first LLM call
 Week 2     ★ Project 1 (API) — COMPLETE (M1–M8)
 Week 3     ★ Project 2 (Playwright) — COMPLETE (M1–M6)
 Week 4     Resume + LinkedIn polish
-Week 5–6   Project 3 (RAG) + start bridge job apps
+Week 5–6   ★ Project 3 (RAG) — M1 done
 Week 7–8   Project 4 (LLM eval) + AI job apps
 Week 9–10  Interviews + apply hard
 ```
@@ -80,6 +80,6 @@ See [`docs/GITHUB_WORKFLOW.md`](./docs/GITHUB_WORKFLOW.md) for copy-paste comman
 
 ## Profile tips (for me)
 
-- Pin: `ai-career-journey`, `api-automation-pytest`, `playwright-pom-saucedemo`, (+ later P3–P4)  
+- Pin: `ai-career-journey`, `api-automation-pytest`, `playwright-pom-saucedemo`, `rag-doc-qa`, (+ later P4)  
 - Profile README: repo named exactly `nilima-satapathy`  
 - Keep this dashboard README honest — dates and checkboxes only when true  

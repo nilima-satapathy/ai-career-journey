@@ -15,13 +15,15 @@ Profile: https://github.com/nilima-satapathy
 | `ai-career-journey` | Dashboard + PROGRESS.md | Yes |
 | `api-automation-pytest` | Project 1 code | Yes |
 | `playwright-pom-saucedemo` | Project 2 code | Yes |
-| later: P3, P4 | One repo per project | Yes |
+| `rag-doc-qa` | Project 3 code | Yes |
+| later: P4 | One repo per project | Yes |
 
 **Pin on profile** (GitHub → profile → Customize pins):  
 1. `ai-career-journey`  
 2. `api-automation-pytest`  
 3. `playwright-pom-saucedemo`  
-4. (add P3–P4 as you create them)
+4. `rag-doc-qa`  
+5. (add P4 when ready)
 
 ---
 
@@ -36,9 +38,12 @@ Replace `X` with the number (3, 4, …) and the message.
 cd C:\Users\admin\OneDrive\Desktop\Code\api-automation-pytest
 # Project 2
 # cd C:\Users\admin\OneDrive\Desktop\Code\playwright-pom-saucedemo
+# Project 3
+# cd C:\Users\admin\OneDrive\Desktop\Code\rag-doc-qa
 
 .\.venv\Scripts\Activate.ps1
-pytest
+# P1/P2: pytest
+# P3 M1: python scripts/run_m1_chunk.py
 ```
 
 All green? Continue.
@@ -53,7 +58,7 @@ Edit `MILESTONES.md` → mark Done + today’s date.
 git add -A
 git status
 git commit -m "feat(mX): short description of what you shipped"
-git tag -a milestone-X -m "Project 2 Milestone X complete"
+git tag -a milestone-X -m "Project 3 Milestone X complete"
 git push origin main
 git push origin milestone-X
 ```
@@ -73,14 +78,14 @@ cd C:\Users\admin\OneDrive\Desktop\Code\ai-career-journey
 
 ```powershell
 git add -A
-git commit -m "docs: log Project 2 milestone X"
+git commit -m "docs: log Project 3 milestone X"
 git push origin main
 ```
 
 ### 5) Optional — GitHub Release (looks great on profile activity)
 
 ```powershell
-cd C:\Users\admin\OneDrive\Desktop\Code\playwright-pom-saucedemo
+cd C:\Users\admin\OneDrive\Desktop\Code\rag-doc-qa
 gh release create milestone-X --title "Milestone X — short title" --notes "What shipped: ..."
 ```
 
