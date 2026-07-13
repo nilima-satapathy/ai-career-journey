@@ -37,7 +37,7 @@ Repo: https://github.com/nilima-satapathy/playwright-pom-saucedemo
 ## Project 3 — RAG Document Q&A (`rag-doc-qa`)
 
 - [x] **M1** PDF load + chunking (configurable size, 3 sample PDFs) — 2026-07-13  
-- [ ] **M2** Embed + Chroma store + similarity search CLI  
+- [x] **M2** Embed + Chroma store + similarity search CLI — 2026-07-13  
 - [ ] **M3** LLM answer + citations  
 - [ ] **M4** Streamlit chat UI  
 - [ ] **M5** Eval on ≥10 questions  
@@ -89,4 +89,5 @@ Repo: https://github.com/nilima-satapathy/rag-doc-qa
 - Shipped **Project 2 M5** — headless GitHub Actions CI + HTML/trace artifacts; tag `milestone-5`  
 - Shipped **Project 2 M6** — recruiter README + portfolio diagrams; tag `milestone-6`  
 - **Project 2 complete** — next: Week 4 polish / Project 3 (RAG)  
-- Started **Project 3 M1** — PDF load + chunking (3 PDFs → configurable chunks)
+- Started **Project 3 M1** — PDF load + chunking (3 PDFs → configurable chunks)  
+- Shipped **Project 3 M2** — Chroma index + similarity search CLI; tag `milestone-2`
