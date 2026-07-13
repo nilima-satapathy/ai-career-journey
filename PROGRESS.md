@@ -27,7 +27,8 @@ Repo: https://github.com/nilima-satapathy/api-automation-pytest
 - [x] **M3** Cart + checkout journeys (5 E2E tests) — 2026-07-13  
 - [x] **M4** Negative login + screenshot/trace on fail (9 tests) — 2026-07-13  
 - [x] **M5** GitHub Actions headless CI + artifacts — 2026-07-13  
-- [ ] **M6** README polish  
+- [x] **M6** README polish + portfolio assets — 2026-07-13  
+- [x] **Project 2 complete** (M1–M6, 9 tests + CI)
 
 Repo: https://github.com/nilima-satapathy/playwright-pom-saucedemo
 
@@ -57,6 +58,7 @@ Repo: https://github.com/nilima-satapathy/playwright-pom-saucedemo
 - [x] Resume v1 drafted (local)  
 - [x] GitHub journey + Project 1 published  
 - [x] Project 2 repo published (`playwright-pom-saucedemo`) + M1 tagged  
+- [x] Project 2 complete (M1–M6 published on GitHub)  
 - [ ] LinkedIn headline + About updated  
 - [ ] Resume PDF exported with GitHub links  
 - [ ] First 10 job applications logged  
@@ -79,4 +81,6 @@ Repo: https://github.com/nilima-satapathy/playwright-pom-saucedemo
 - Shipped **Project 2 M2** — Page Object Model refactor; tag `milestone-2`  
 - Shipped **Project 2 M3** — cart + checkout journeys (5 green tests); tag `milestone-3`  
 - Shipped **Project 2 M4** — 4 negative login tests + fail screenshot/trace; tag `milestone-4`  
-- Shipped **Project 2 M5** — headless GitHub Actions CI + HTML/trace artifacts; tag `milestone-5`
+- Shipped **Project 2 M5** — headless GitHub Actions CI + HTML/trace artifacts; tag `milestone-5`  
+- Shipped **Project 2 M6** — recruiter README + portfolio diagrams; tag `milestone-6`  
+- **Project 2 complete** — next: Week 4 polish / Project 3 (RAG)
