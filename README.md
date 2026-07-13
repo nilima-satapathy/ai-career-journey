@@ -18,7 +18,7 @@ This repo is my **single dashboard**: overall progress, project links, and how I
 |-------|---------|--------|
 | **Project 1** — API automation | **Complete** (M1–M8 · 77 tests · CI) | ✅ Done |
 | **Project 2** — Playwright POM | **Complete** (M1–M6 · 9 tests · CI) | ✅ Done |
-| **Project 3** — RAG doc Q&A | Not started | ⚪ |
+| **Project 3** — RAG doc Q&A | **M1 done** (PDF load + chunk) | 🟡 |
 | **Project 4** — LLM eval dashboard | Not started | ⚪ |
 | Job applications | Tracker ready | ⚪ Starts ~Week 5 |
 
@@ -32,7 +32,7 @@ This repo is my **single dashboard**: overall progress, project links, and how I
 |---|------|----------------|------|
 | 1 | `api-automation-pytest` | Python · Pytest · API · schema · CI | [Open](https://github.com/nilima-satapathy/api-automation-pytest) |
 | 2 | `playwright-pom-saucedemo` | UI automation · Playwright · POM · CI | [Open](https://github.com/nilima-satapathy/playwright-pom-saucedemo) |
-| 3 | `rag-doc-qa` | RAG · embeddings · deploy | *coming soon* |
+| 3 | `rag-doc-qa` | RAG · embeddings · citations · eval | [Open](https://github.com/nilima-satapathy/rag-doc-qa) |
 | 4 | `llm-eval-dashboard` | LLM evaluation · golden set · quality gates | *coming soon* |
 
 ---
