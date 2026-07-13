@@ -26,7 +26,7 @@ Repo: https://github.com/nilima-satapathy/api-automation-pytest
 - [x] **M2** Page Object Model (login/inventory/cart pages) — 2026-07-13  
 - [x] **M3** Cart + checkout journeys (5 E2E tests) — 2026-07-13  
 - [x] **M4** Negative login + screenshot/trace on fail (9 tests) — 2026-07-13  
-- [ ] **M5** CI headless  
+- [x] **M5** GitHub Actions headless CI + artifacts — 2026-07-13  
 - [ ] **M6** README polish  
 
 Repo: https://github.com/nilima-satapathy/playwright-pom-saucedemo
@@ -78,4 +78,5 @@ Repo: https://github.com/nilima-satapathy/playwright-pom-saucedemo
 - Shipped **Project 2 M1** — first SauceDemo login test green (1 passed); repo + tag `milestone-1` on GitHub  
 - Shipped **Project 2 M2** — Page Object Model refactor; tag `milestone-2`  
 - Shipped **Project 2 M3** — cart + checkout journeys (5 green tests); tag `milestone-3`  
-- Shipped **Project 2 M4** — 4 negative login tests + fail screenshot/trace; tag `milestone-4`
+- Shipped **Project 2 M4** — 4 negative login tests + fail screenshot/trace; tag `milestone-4`  
+- Shipped **Project 2 M5** — headless GitHub Actions CI + HTML/trace artifacts; tag `milestone-5`
