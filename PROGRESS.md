@@ -41,9 +41,10 @@ Repo: https://github.com/nilima-satapathy/playwright-pom-saucedemo
 - [x] **M3** LLM answer + citations (xAI/Grok; weak-retrieval fallback) — 2026-07-13  
 - [x] **M4** Streamlit chat UI (`streamlit run app.py`) — 2026-07-14  
 - [x] **M5** Eval suite (14 Qs · retrieval hit@3 = 13/13) — 2026-07-14  
-- [x] **M6** Deploy prep + README polish + architecture diagram — 2026-07-14  
+- [x] **M6** Deploy + README polish + architecture diagram — 2026-07-14  
+  - Live: https://rag-docq-qna.streamlit.app  
   - Auto-index cold start, Streamlit secrets, `docs/DEPLOY.md`  
-  - *Live URL:* publish on Streamlit Community Cloud, then paste into README  
+- [x] **Project 3 complete** (M1–M6)
 
 Repo: https://github.com/nilima-satapathy/rag-doc-qa
 
@@ -96,4 +97,5 @@ Repo: https://github.com/nilima-satapathy/rag-doc-qa
 - Shipped **Project 3 M3** — RAG generate + citations (needs xAI credits for live LLM); tag `milestone-3`  
 - Shipped **Project 3 M4** — Streamlit chat UI; tag `milestone-4`  
 - Shipped **Project 3 M5** — eval hit-rate 13/13 @k=3; tag `milestone-5`  
-- Shipped **Project 3 M6** — deploy prep (auto-index, secrets, architecture, DEPLOY.md); tag when live URL is up
+- Shipped **Project 3 M6** — live deploy https://rag-docq-qna.streamlit.app  
+- **Project 3 complete** — next: LinkedIn post / Project 4 or career polish
