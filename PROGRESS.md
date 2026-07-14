@@ -40,7 +40,7 @@ Repo: https://github.com/nilima-satapathy/playwright-pom-saucedemo
 - [x] **M2** Embed + Chroma store + similarity search CLI — 2026-07-13  
 - [x] **M3** LLM answer + citations (xAI/Grok; weak-retrieval fallback) — 2026-07-13  
 - [x] **M4** Streamlit chat UI (`streamlit run app.py`) — 2026-07-14  
-- [ ] **M5** Eval on ≥10 questions  
+- [x] **M5** Eval suite (14 Qs · retrieval hit@3 = 13/13) — 2026-07-14  
 - [ ] **M6** Deploy + README polish  
 
 Repo: https://github.com/nilima-satapathy/rag-doc-qa
@@ -92,4 +92,5 @@ Repo: https://github.com/nilima-satapathy/rag-doc-qa
 - Started **Project 3 M1** — PDF load + chunking (3 PDFs → configurable chunks)  
 - Shipped **Project 3 M2** — Chroma index + similarity search CLI; tag `milestone-2`  
 - Shipped **Project 3 M3** — RAG generate + citations (needs xAI credits for live LLM); tag `milestone-3`  
-- Shipped **Project 3 M4** — Streamlit chat UI; tag `milestone-4`
+- Shipped **Project 3 M4** — Streamlit chat UI; tag `milestone-4`  
+- Shipped **Project 3 M5** — eval hit-rate 13/13 @k=3; tag `milestone-5`

@@ -18,7 +18,7 @@ This repo is my **single dashboard**: overall progress, project links, and how I
 |-------|---------|--------|
 | **Project 1** — API automation | **Complete** (M1–M8 · 77 tests · CI) | ✅ Done |
 | **Project 2** — Playwright POM | **Complete** (M1–M6 · 9 tests · CI) | ✅ Done |
-| **Project 3** — RAG doc Q&A | **M1–M4 done** (Streamlit chat UI) | 🟡 |
+| **Project 3** — RAG doc Q&A | **M1–M5 done** (eval 13/13 hit@3) | 🟡 |
 | **Project 4** — LLM eval dashboard | Not started | ⚪ |
 | Job applications | Tracker ready | ⚪ Starts ~Week 5 |
 
@@ -44,7 +44,7 @@ Week 1     Foundations + first LLM call
 Week 2     ★ Project 1 (API) — COMPLETE (M1–M8)
 Week 3     ★ Project 2 (Playwright) — COMPLETE (M1–M6)
 Week 4     Resume + LinkedIn polish
-Week 5–6   ★ Project 3 (RAG) — M1–M4 done
+Week 5–6   ★ Project 3 (RAG) — M1–M5 done
 Week 7–8   Project 4 (LLM eval) + AI job apps
 Week 9–10  Interviews + apply hard
 ```
